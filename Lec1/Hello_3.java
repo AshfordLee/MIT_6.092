@@ -1,0 +1,11 @@
+package Lec1;
+
+class Hello_3{
+    public static void main(String[] arguments)
+    {
+        String foo="IAP 6.092";
+        System.out.println(foo);
+        foo="Something else";
+        System.out.println(foo);
+    }
+}
